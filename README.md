@@ -1,4 +1,4 @@
-echo "# Hand Tracking using OpenCV and Mediapipe
+			echo "# Hand Tracking using OpenCV and Mediapipe
 
 This Python script utilizes the OpenCV and Mediapipe libraries to perform real-time hand and finger detection through a webcam feed. It draws landmarks on the detected hands and displays the results in a window.
 
